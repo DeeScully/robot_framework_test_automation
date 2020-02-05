@@ -6,6 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+robotframework = "*"
+robotframework-seleniumlibrary = "*"
+robotframework-requests = "*"
 selenium = "*"
 
 [requires]
